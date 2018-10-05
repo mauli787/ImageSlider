@@ -2,8 +2,8 @@
 //  SliderUITests.swift
 //  SliderUITests
 //
-//  Created by Sandeep Palod on 04/10/18.
-//  Copyright © 2018 Sandeep Palod. All rights reserved.
+//  Created by Dnyaneshwar Shinde on 04/10/18.
+//  Copyright © 2018 Dnyaneshwar Shinde. All rights reserved.
 //
 
 import XCTest
